@@ -3,7 +3,7 @@
   email = ##TODO##
 [push]
   config = default
-  default = tracking
+  default = simple
 [diff]
   renames = true
 [status]
