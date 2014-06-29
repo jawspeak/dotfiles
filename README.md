@@ -10,7 +10,7 @@ ln -s dotfiles/.bash_aliases ~/.bash_aliases
 
 echo "" >> ~/.bashrc
 echo "# sourcing my aliases (jaw)" >> ~/.bashrc
-echo "source ~./bash_aliases" >> ~/.bashrc
+echo "source ~/.bash_aliases" >> ~/.bashrc
 ```
 
 
