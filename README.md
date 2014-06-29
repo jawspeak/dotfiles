@@ -12,3 +12,6 @@ echo "" >> ~/.bashrc
 echo "# sourcing my aliases (jaw)" >> ~/.bashrc
 echo "source ~./bash_aliases" >> ~/.bashrc
 ```
+
+
+Also, for mac, use https://github.com/square/maximum-awesome.
